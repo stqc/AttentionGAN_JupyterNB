@@ -2,6 +2,10 @@
 ### A simplified version of the AttentionGAN 
 <br>
 Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks.<br>
+This model was trained on a GTX 1060 6G.<br>
+Trainig time varies with dataset, but on an average I had to train for atleast 5hrs minimum to see decent results. 
+
+<br>
 
 ## Outputs <br>
 Uploading..
